@@ -1,5 +1,5 @@
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
-
+import { RouterModule, Routes } from '@angular/router';
 import { AppModule } from './app/app.module';
 
 
